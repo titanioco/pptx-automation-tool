@@ -1,0 +1,30 @@
+{
+  "language": "es",
+  "slides_count": 12,
+  "user": {
+    "name": "Alejandro",
+    "brand_name": "ACME",
+    "logo_path": ""
+  },
+  "footer": {
+    "text": "Confidencial — ACME 2026",
+    "show_slide_numbers": true
+  },
+  "theme": {
+    "font_family": "Inter",
+    "primary_color": "#1F2D3D",
+    "accent_color": "#2979FF",
+    "bg_color": "#FFFFFF"
+  },
+  "input": {
+    "description": "Estrategia de lanzamiento en LATAM para Q2 con foco en canales digitales. El objetivo es alcanzar 100,000 usuarios en los primeros 3 meses a través de redes sociales, marketing de contenido y partnerships estratégicos. Se priorizarán Brasil, México y Argentina como mercados principales. La campaña incluirá contenido localizado, influencers regionales y eventos virtuales. Se medirá el éxito por engagement, conversiones y retención de usuarios.",
+    "images": [],
+    "audio_paths": []
+  },
+  "length_target": {
+    "summary_words": 500,
+    "bullets_per_slide_max": 6
+  },
+  "output_dir": "output",
+  "enable_research": false
+}

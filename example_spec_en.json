@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "slides_count": 10,
+  "user": {
+    "name": "Sarah Johnson",
+    "brand_name": "TechVision Inc.",
+    "logo_path": ""
+  },
+  "footer": {
+    "text": "Confidential — TechVision 2026",
+    "show_slide_numbers": true
+  },
+  "theme": {
+    "font_family": "Roboto",
+    "primary_color": "#2C3E50",
+    "accent_color": "#E74C3C",
+    "bg_color": "#FFFFFF"
+  },
+  "input": {
+    "description": "Q1 Product Roadmap for our new AI-powered analytics platform. Focus on user experience improvements, real-time data processing capabilities, and integration with major cloud providers. Target launch date is March 2026 with beta testing starting in January. Key features include predictive analytics, customizable dashboards, and automated reporting.",
+    "images": [],
+    "audio_paths": []
+  },
+  "length_target": {
+    "summary_words": 400,
+    "bullets_per_slide_max": 5
+  },
+  "output_dir": "output",
+  "enable_research": false
+}
